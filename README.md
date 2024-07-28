@@ -2,4 +2,7 @@
 
 ## This is Implementation of Reasearch Paper Simple GANs
 
-!result(result/gans.png)
+https://arxiv.org/pdf/1406.2661
+
+![Result](result/gans.png)
+
